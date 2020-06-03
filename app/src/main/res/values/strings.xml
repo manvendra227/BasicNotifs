@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Notif</string>
+    <string name="Dummy">YouTube started working in April 2005. There was practically no video on the site, very
+few people knew about it and even fewer people wanted to use it. But Google experts saw
+a great potential on YouTube, although the search engine had its own similar service
+called Google Videos, and a year and a half after the launch, the video hosting service
+was bought for $ 1.65 billion.
+The reason Google decided to buy was the business model of the project (and the project
+team). This is what YouTube offers:
+ unlimited
+video content hosting in maximum resolution;
+ live broadcast and Video on Demand (VOD) on one service (channel);
+ opportunity to improve contact with the latest technology;
+ personal recommendations (based on neural networks and AI);
+ dynamic video transcoding for streaming without buffer on all bandwidths on
+different devices;
+ streaming servers and data centres around the world.
+And all this YouTube offered for free. They are the first to decide on this, so it’</string>
+</resources>
