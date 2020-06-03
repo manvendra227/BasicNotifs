@@ -144,7 +144,7 @@ class MainActivity : AppCompatActivity() {
             .setPriority(NotificationCompat.PRIORITY_HIGH)
             .setCategory(NotificationCompat.CATEGORY_MESSAGE)
             .addAction(
-                R.drawable.setalarm,
+                R.drawable.setalarm
                 "ACTION 1",
                 action
             )//Here is the action created, we can create max 3 of these. The icon is for api less than 26
